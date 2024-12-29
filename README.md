@@ -1,0 +1,6 @@
+# 【毕设】jsp102ssm社会保险信息系统hsg7587ABB6毕业设计
+
+免费安装<br>技术实现<br>开发语言:example.com:example.com:B/example.com:example.com:example.com:1万左右.<br>功能实现<br>详细功能请直接下载视频观看。以下信息为大体的功能介绍:<br>通过系统需求分析,本文主要介绍系统后台功能<br>本系统开发完成后，主要实现如下目标：<br>总体功能本次开发的软件系统主要包括了以下六个基本模块：参保人员的档案管理、保险金额的缴纳管理、社会保险的发放管理、信息查询、缴纳信息发布和软件系统维护六个功能模块。<br>功能结构详见图4-1。<br>                                 <br>图4-1系统功能结构图<br>它的主要功能描述如下：<br>1）参保者档案管理<br>对单位档案信息、在职员工档案信息、退休员工档案信息、已故员工档案信息管理的增减、修改等操作。<br>2）保险金缴纳管理<br>根据每个缴费周期，本单位缴纳的员工平均工资明细表，进行保险缴收的审核、入账和补缴等进行操作。<br>3）保险金发放管理<br>根据员工所在单位退休员工的待遇情况，开展社会保险金数额的审核、入账，和已故员工后事补助费的发放。<br>4）信息查询<br>包括档案查询，单位缴费情况查询，个人账户查询，死亡及遗嘱档案查询等。<br>5）信息发布<br>对单位和职工的补缴情况的信息发布。<br>6）系统维护<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/RI60I" style="color: red;">https://mega-file.org/RI60I</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
